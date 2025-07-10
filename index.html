@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Referências Bibliográficas - Estácio Saúde</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 min-h-screen flex flex-col items-center py-8 px-4 sm:px-6 lg:px-8">
+    <header class="w-full max-w-4xl text-center mb-12">
+        <h1 class="text-4xl sm:text-5xl font-extrabold text-gray-900 leading-tight mb-4 rounded-lg p-2">
+            Referências Bibliográficas
+        </h1>
+        <p class="text-lg sm:text-xl text-gray-700 mb-6">
+            Fontes de pesquisa e imagens que fundamentam o nosso curta-metragem sobre os aspectos da saúde no Estácio.
+        </p>
+    </header>
+
+    <main id="references-container" class="w-full max-w-5xl grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <p id="loading-message" class="col-span-full text-center text-gray-600">Carregando referências...</p>
+    </main>
+
+    <footer class="w-full max-w-4xl text-center mt-12 text-gray-600 text-sm">
+        <p>&copy; 2025 Seu Curta-Metragem. Todos os direitos reservados.</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="references-data.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>

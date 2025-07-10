@@ -1,0 +1,272 @@
+[
+    {
+        "id": "ref1",
+        "title": "Estácio, bairro",
+        "author": "Rio de Janeiro Aqui",
+        "year": "2021",
+        "link": "https://www.riodejaneiroaqui.com/portugues/estacio-bairro.html",
+        "image": "https://placehold.co/400x250/FFEBCD/000000?text=Estacio1+e+2",
+        "description": "Descrição geral do bairro Estácio e seus aspectos históricos e culturais.",
+        "category": "História Urbana"
+    },
+    {
+        "id": "ref2",
+        "title": "De Mata Porcos a herói da cidade",
+        "author": "MultiRio",
+        "year": "2022",
+        "link": "https://www.multirio.rj.gov.br/index.php/reportagens/600-de-mata-porcos-a-heroi-da-cidade",
+        "image": "https://placehold.co/400x250/D8BFD8/000000?text=Foto+3",
+        "description": "História da transformação urbana do bairro Estácio.",
+        "category": "História Urbana"
+    },
+    {
+        "id": "ref3",
+        "title": "A primeira escola de samba do Brasil surgiu no Estácio",
+        "author": "Diário do Rio",
+        "year": "2023",
+        "link": "https://diariodorio.com/deixa-falar-a-primeira-escola-de-samba-do-brasil-surgiu-no-estacio-3/",
+        "image": "https://placehold.co/400x250/FFD700/000000?text=Foto+4",
+        "description": "Narrativa sobre a fundação da primeira escola de samba no Estácio.",
+        "category": "Cultura"
+    },
+    {
+        "id": "ref4",
+        "title": "Estácio: um espaço democrático",
+        "author": "MultiRio",
+        "year": "2022",
+        "link": "https://www.multirio.rj.gov.br/index.php/reportagens/603-estacio-um-espaco-democratico",
+        "image": "https://placehold.co/400x250/ADD8E6/000000?text=Foto+5",
+        "description": "Análise sociocultural do bairro Estácio e sua diversidade.",
+        "category": "Sociologia Urbana"
+    },
+    {
+        "id": "ref5",
+        "title": "Desanimar Jamais - Ep. 2.7",
+        "author": "MultiRio",
+        "year": "2021",
+        "link": "https://multirio.rio.rj.gov.br/index.php?option=com_content&view=article&id=599:desanimar-jamais-ep2-7&catid=35:blog-musica-a-cia&Itemid=385",
+        "image": "https://placehold.co/400x250/FFB6C1/000000?text=Foto+6",
+        "description": "Série abordando o papel da música no cotidiano do Estácio.",
+        "category": "Cultura Popular"
+    },
+    {
+        "id": "ref6",
+        "title": "Comércio de portas fechadas no Estácio",
+        "author": "O Globo",
+        "year": "2013",
+        "link": "https://oglobo.globo.com/rio/comercio-de-portas-fechadas-no-estacio-8712512",
+        "image": "https://placehold.co/400x250/C0C0C0/000000?text=Foto+7",
+        "description": "Matéria jornalística sobre o fechamento do comércio no bairro.",
+        "category": "Economia Urbana"
+    },
+    {
+        "id": "ref7",
+        "title": "Estácio já teve seis quadras diferentes",
+        "author": "Extra",
+        "year": "2015",
+        "link": "https://extra.globo.com/noticias/carnaval/carnaval-historico/o-leao-procura-sua-toca-estacio-ja-teve-seis-quadras-diferentes-15156337.html",
+        "image": "https://placehold.co/400x250/FFE4B5/000000?text=Fotos+8+e+9",
+        "description": "Histórico das mudanças de localização da quadra da escola Estácio de Sá.",
+        "category": "Cultura Carnavalesca"
+    },
+    {
+        "id": "ref8",
+        "title": "O estratégico bairro do Rio Comprido",
+        "author": "MultiRio",
+        "year": "2023",
+        "link": "https://www.multirio.rj.gov.br/index.php/reportagens/13679-o-estrat%C3%A9gico-bairro-do-rio-comprido",
+        "image": "https://placehold.co/400x250/F0FFF0/000000?text=Fotos+10+e+11",
+        "description": "Estudo sobre a importância geográfica e urbana do bairro Rio Comprido.",
+        "category": "Planejamento Urbano"
+    },
+    {
+        "id": "ref9",
+        "title": "Pega a visão da cria do Turano",
+        "author": "ANF",
+        "year": "2022",
+        "link": "https://www.anf.org.br/pega-a-visao-da-cria-do-turano/",
+        "image": "https://placehold.co/400x250/B0E0E6/000000?text=Foto+12",
+        "description": "Perfil de um jovem da favela do Turano e sua visão de futuro.",
+        "category": "Juventude e Periferia"
+    },
+    {
+        "id": "ref10",
+        "title": "Rio Comprido - Roteiro",
+        "author": "Rolé Carioca",
+        "year": "2021",
+        "link": "https://www.rolecarioca.com.br/roteiro/22/rio-comprido.html",
+        "image": "https://placehold.co/400x250/FAFAD2/000000?text=Foto+13",
+        "description": "Roteiro cultural e histórico pelo bairro do Rio Comprido.",
+        "category": "Turismo Cultural"
+    },
+    {
+        "id": "ref11",
+        "title": "Série Bairros do Rio: Rio Comprido",
+        "author": "Arquivo Nacional",
+        "year": "2022",
+        "link": "https://www.facebook.com/arquivonacionalbrasil/posts/s%C3%A9rie-bairros-do-rio-rio-compridorio-comprido-%C3%A9-um-bairro-localizado-na-%C3%A1rea-cen/1457217947705412/",
+        "image": "https://placehold.co/400x250/FFEFD5/000000?text=Foto+14",
+        "description": "Publicação histórica sobre o bairro Rio Comprido.",
+        "category": "História Urbana"
+    },
+    {
+        "id": "ref12",
+        "title": "Um bairro chamado Estácio",
+        "author": "MultiRio",
+        "year": "2021",
+        "link": "https://www.multirio.rj.gov.br/index.php/familia/599-um-bairro-chamado-estacio",
+        "image": "https://placehold.co/400x250/F5F5DC/000000?text=Estacio+Geral",
+        "description": "Abordagem histórica, social e cultural sobre o bairro Estácio.",
+        "category": "História Urbana"
+    },
+    {
+        "id": "ref13",
+        "title": "O estratégico bairro do Rio Comprido",
+        "author": "MultiRio",
+        "year": "2021",
+        "link": "https://www.multirio.rj.gov.br/index.php/familia/13679-o-estrat%C3%A9gico-bairro-do-rio-comprido",
+        "image": "https://placehold.co/400x250/E6E6FA/000000?text=Rio+Comprido",
+        "description": "Análise do papel do bairro Rio Comprido no contexto urbano carioca.",
+        "category": "Planejamento Urbano"
+    },
+    {
+        "id": "ref14",
+        "title": "Bairros do Rio de Janeiro: Estácio",
+        "author": "Conectando Territórios",
+        "year": "2018",
+        "link": "https://conectandoterritorios.com.br/2018/06/15/bairros-do-rio-de-janeiro-estacio/",
+        "image": "https://placehold.co/400x250/FFFACD/000000?text=Estacio+CT",
+        "description": "Reportagem sobre as características históricas do bairro Estácio.",
+        "category": "História Urbana"
+    },
+    {
+        "id": "ref15",
+        "title": "Painel de dados - Rio Comprido",
+        "author": "Instituto Pereira Passos",
+        "year": "2024",
+        "link": "https://ips-rio-pcrj.hub.arcgis.com/pages/riocomprido",
+        "image": "https://placehold.co/400x250/F0F8FF/000000?text=Dados+IPP",
+        "description": "Dados e indicadores geográficos e sociais do bairro Rio Comprido.",
+        "category": "Dados Públicos"
+    },
+    {
+        "id": "ref16",
+        "title": "Painéis de Doenças e Agravos",
+        "author": "Secretaria Municipal de Saúde do Rio de Janeiro",
+        "year": "2024",
+        "link": "https://epirio.svs.rio.br/paineis/doencas-e-agravos/",
+        "image": "https://placehold.co/400x250/FAEBD7/000000?text=Epidemiologia",
+        "description": "Painel interativo com dados de saúde pública por região da cidade.",
+        "category": "Saúde Pública"
+    },
+    {
+        "id": "ref17",
+        "title": "Crescimento demográfico entre 2010 e 2022 na cidade do Rio",
+        "author": "Folha de S.Paulo",
+        "year": "2024",
+        "link": "https://www1.folha.uol.com.br/cotidiano/2024/03/confira-como-cresceu-a-sua-regiao-entre-2010-e-2022-na-cidade-do-rio-de-janeiro.shtml",
+        "image": "https://placehold.co/400x250/FFE4E1/000000?text=Crescimento+RJ",
+        "description": "Visualização do crescimento populacional de regiões do Rio de Janeiro.",
+        "category": "Demografia"
+    },
+    {
+        "id": "ref18",
+        "title": "Cartilha DA Jan/2023",
+        "author": "Fundação Saúde RJ",
+        "year": "2023",
+        "link": "http://www.fundacaosaude.rj.gov.br/fidelidade/wp-content/uploads/2023/02/SITE-Cartilha-DA-Jan-2023-_compressed.pdf",
+        "image": "https://placehold.co/400x250/E0FFFF/000000?text=Cartilha+FS",
+        "description": "Cartilha de Diretrizes Assistenciais da Fundação Saúde do Estado do Rio de Janeiro.",
+        "category": "Saúde Pública"
+    },
+    {
+        "id": "ref19",
+        "title": "Hospital Central Aristarcho Pessoa",
+        "author": "Fundação Carlos Chagas",
+        "year": "2023",
+        "link": "https://www.carloschagas.org.br/hospitais/hospital-central-aristarcho-pessoa/",
+        "image": "https://placehold.co/400x250/F0FFF0/000000?text=Hospital+Aristarcho",
+        "description": "Informações sobre o hospital e seus serviços à população.",
+        "category": "Infraestrutura de Saúde"
+    },
+    {
+        "id": "ref20",
+        "title": "Plano de Governo - RGCAP 1.0",
+        "author": "Prefeitura do Rio de Janeiro",
+        "year": "2023",
+        "link": "http://www.rio.rj.gov.br/dlstatic/10112/6594964/4177811/RGCAP1.0.pdf",
+        "image": "https://placehold.co/400x250/F5F5F5/000000?text=Plano+RGCAP",
+        "description": "Documento oficial de planejamento e ações da prefeitura do Rio.",
+        "category": "Política Pública"
+    },
+    {
+        "id": "ref21",
+        "title": "Unidades de Saúde Municipais",
+        "author": "Prefeitura do Rio de Janeiro",
+        "year": "2023",
+        "link": "https://www.1746.rio/hc/pt-br/articles/10733682817307-Unidades-de-Sa%C3%BAde-Municipal",
+        "image": "https://placehold.co/400x250/FFF0F5/000000?text=Unidades+de+Saude",
+        "description": "Lista de unidades de saúde da cidade do Rio de Janeiro.",
+        "category": "Saúde Pública"
+    },
+    {
+        "id": "ref22",
+        "title": "Serviços gratuitos em escolas de samba",
+        "author": "Carnavalesco",
+        "year": "2023",
+        "link": "https://carnavalesco.com.br/universidade-estacio-oferecera-diversos-servicos-gratuitos-em-escolas-de-samba",
+        "image": "https://placehold.co/400x250/FDF5E6/000000?text=Serviços+Estácio",
+        "description": "Iniciativas de serviço comunitário promovidas pela Estácio de Sá.",
+        "category": "Ação Social"
+    },
+    {
+        "id": "ref23",
+        "title": "Ação social em escolas de samba",
+        "author": "Brava Baixada",
+        "year": "2025",
+        "link": "https://bravabaixada.com.br/2025/06/27/acao-social-em-cinco-escolas-de-samba-do-rio-de-janeiro/",
+        "image": "https://placehold.co/400x250/F8F8FF/000000?text=Ação+Social+Samba",
+        "description": "Notícia sobre ações sociais realizadas nas escolas de samba cariocas.",
+        "category": "Cultura e Cidadania"
+    },
+    {
+        "id": "ref24",
+        "title": "Assassinato de Marielle Franco",
+        "author": "Ancestralidades",
+        "year": "2023",
+        "link": "https://www.ancestralidades.org.br/marcos-historicos/assassinato-de-marielle-franco",
+        "image": "https://placehold.co/400x250/FFEBCD/000000?text=Marielle+Franco",
+        "description": "Contexto histórico e político do assassinato de Marielle Franco.",
+        "category": "Direitos Humanos"
+    },
+    {
+        "id": "ref25",
+        "title": "Estácio e sua antiga vocação",
+        "author": "MultiRio",
+        "year": "2022",
+        "link": "https://www.multirio.rj.gov.br/index.php/reportagens/605-estacio-e-sua-antiga-vocacao",
+        "image": "https://placehold.co/400x250/E6E6FA/000000?text=Vocação+Estácio",
+        "description": "Narrativa sobre o passado produtivo e comercial do bairro Estácio.",
+        "category": "História Urbana"
+    },
+    {
+        "id": "ref26",
+        "title": "O berço das escolas de samba",
+        "author": "MultiRio",
+        "year": "2022",
+        "link": "https://www.multirio.rj.gov.br/index.php/reportagens/602-o-berco-das-escolas-de-samba",
+        "image": "https://placehold.co/400x250/F0F8FF/000000?text=Escolas+de+Samba",
+        "description": "Estácio como local de origem das primeiras escolas de samba do Brasil.",
+        "category": "Cultura"
+    },
+    {
+        "id": "ref27",
+        "title": "Movimentos sociais no Rio de Janeiro (2007–2022)",
+        "author": "WikiFavelas",
+        "year": "2023",
+        "link": "https://wikifavelas.com.br/index.php/Movimentos_sociais_no_Rio_de_Janeiro_(2007-2022)",
+        "image": "https://placehold.co/400x250/DCDCDC/000000?text=Movimentos+Sociais",
+        "description": "Análise de movimentos sociais nas favelas do Rio ao longo dos últimos anos.",
+        "category": "Sociologia Urbana"
+    }
+]
