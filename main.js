@@ -1,6 +1,6 @@
 function createReferenceCard(ref) {
     const card = document.createElement('div');
-    card.className = 'bg-white rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300 overflow-hidden';
+    card.className = 'bg-white dark:bg-gray-800 rounded-xl shadow-lg hover:shadow-2xl hover:-translate-y-1 transform transition-all duration-300 overflow-hidden';
 
     const image = document.createElement('img');
     image.src = ref.image || 'https://placehold.co/400x250/CCCCCC/333333?text=Sem+Imagem';
@@ -14,15 +14,15 @@ function createReferenceCard(ref) {
     content.className = 'p-6';
 
     const title = document.createElement('h3');
-    title.className = 'text-xl font-semibold text-gray-900 mb-2';
+    title.className = 'text-xl font-semibold text-gray-900 dark:text-gray-100 mb-2';
     title.textContent = ref.title;
 
     const authorYear = document.createElement('p');
-    authorYear.className = 'text-gray-600 text-sm mb-2';
+    authorYear.className = 'text-gray-600 dark:text-gray-400 text-sm mb-2';
     authorYear.textContent = `${ref.author} (${ref.year})`;
 
     const description = document.createElement('p');
-    description.className = 'text-gray-700 text-base mb-4';
+    description.className = 'text-gray-700 dark:text-gray-300 text-base mb-4';
     description.textContent = ref.description;
 
     const link = document.createElement('a');
@@ -90,4 +90,43 @@ function loadReferences() {
         });
 }
 
-window.addEventListener('DOMContentLoaded', loadReferences);
+function setupThemeToggle() {
+    const themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
+    const themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
+    const themeToggleButton = document.getElementById('theme-toggle');
+
+    // Função para atualizar o ícone
+    const updateIcon = () => {
+        if (document.documentElement.classList.contains('dark')) {
+            themeToggleLightIcon.classList.remove('hidden');
+            themeToggleDarkIcon.classList.add('hidden');
+        } else {
+            themeToggleLightIcon.classList.add('hidden');
+            themeToggleDarkIcon.classList.remove('hidden');
+        }
+    };
+
+    // Verifica o tema no carregamento da página
+    if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.classList.add('dark');
+    } else {
+        document.documentElement.classList.remove('dark');
+    }
+    updateIcon();
+
+    themeToggleButton.addEventListener('click', function() {
+        // Inverte o tema
+        const isDark = document.documentElement.classList.toggle('dark');
+        
+        // Salva a preferência no localStorage
+        localStorage.setItem('color-theme', isDark ? 'dark' : 'light');
+
+        // Atualiza o ícone
+        updateIcon();
+    });
+}
+
+window.addEventListener('DOMContentLoaded', () => {
+    loadReferences();
+    setupThemeToggle();
+});
